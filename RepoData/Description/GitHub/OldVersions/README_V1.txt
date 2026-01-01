@@ -1,0 +1,1 @@
+🪟️🍷️🇼🌐️ The official source repository for the website of the UShortcut Pro, the ultimate shortcut utility for all platforms. Create shortcuts easily in Windows, MacOS, Linux, iOS, Android, BSD, and more. 
